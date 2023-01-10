@@ -1,14 +1,16 @@
 # Neural-Network-framework-using-Backpropogation-in-C
 
+## instruction
 >This Assignment is to use the Neuron Network to let the machine learn XOR with n-bit inputs. 
 
-# Compile
-cd DATASTRUCTURE_HW1.1
-cd Neural-Network-framework-using-Backpropogation-in-C
-gcc main.c layer.c neuron.c -o main -lm
-# Run
-./main
+## Compile
+    cd DATASTRUCTURE_HW1.1
+    cd Neural-Network-framework-using-Backpropogation-in-C
+    gcc main.c layer.c neuron.c -o main -lm
+## Run
+    ./main
 
+## Reasult
 >The number of layers is four.
 >The number of neurons in layer[1]:2
 >Enter number of neurons in layer[2]:4 
@@ -114,4 +116,3 @@ gcc main.c layer.c neuron.c -o main -lm
 >Enter input to test:
 >1 1
 >Output: 0ˋ
-
